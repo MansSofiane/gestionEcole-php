@@ -1,0 +1,1 @@
+<footer class="footer text-center"> 2019 &copy; Dev-Chrono | Sama-Ecole</footer>
